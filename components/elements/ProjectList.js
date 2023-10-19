@@ -72,18 +72,6 @@ function ProjectList() {
                 sourceCode="https://github.com/Akukzeey/Interactive_Atm_Card"
                 src={interactive}
             />
-            <ProjectItem
-                title="My portfolio"
-                description={
-                    <p>
-                        Having portfolio is among the most important things for a web developer, a good portfolio is definitely even more important. For this reason, I sat down to develop a fully responsive, fast pre rendered website with an option to switch themes using react js and next js.
-                    </p>
-                }
-                techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs, faReact, "next.svg"]}
-                demo="#"
-                sourceCode="https://github.com/faizscripts/portfolio"
-                src={portfolio}
-            />
         </>
     )
 }
