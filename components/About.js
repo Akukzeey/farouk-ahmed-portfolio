@@ -1,6 +1,6 @@
 import useWindowDimensions from "../hooks/useWindowDimensions";
 import Image from "next/image";
-import me from "../public/images/main-img.webp"
+import me from "../public/images/main-img-2.png"
 
 function About() {
     const [windowDimensions] = useWindowDimensions()
@@ -12,7 +12,7 @@ function About() {
                 return (
                     <div className="about-photo-container">
                         <div className="about-photo d-flex justify-content-center" data-aos="fade-up">
-                            <Image src={me} alt={me} placeholder="blur" height='180px' width='180px'/>
+                            <Image src={me} alt={me} placeholder="blur" layout="fill"/>
                         </div>
                     </div>
                 )
