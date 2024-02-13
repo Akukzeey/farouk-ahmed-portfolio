@@ -4,6 +4,7 @@ import apple from '../../public/images/projects/apple-img.png'
 import commerce from '../../public/images/projects/amazon-cellular-prj.png'
 import deesignal from '../../public/images/projects/deesignal-project.png'
 import interactive from '../../public/images/projects/interactive-project.png'
+import dawah from '../../public/images/projects/dawah-academy.png'
 import {
     faHtml5,
     faCss3,
@@ -31,6 +32,21 @@ function ProjectList() {
                 demo="https://www.apple-express.co.ke/"
                 sourceCode="https://github.com/faizscripts/apple"
                 src={apple}
+            />
+            <ProjectItem
+                title="Dawah Academy"
+                description={
+                    <>
+                        <p>
+
+                            The school website I develop prioritizes intuitive navigation, rich multimedia content, and cross-device compatibility. It offers a seamless user experience for students, parents, and faculty, serving as a reliable hub for accessing information and resources.
+                        </p>
+                    </>
+                }
+                techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs,"next.svg"]}
+                demo="https://dawahacademy.netlify.app/"
+                sourceCode="https://github.com/techzellence/dawahacademy"
+                src={dawah}
             />
             <ProjectItem
                 title="Deesignal Media"
