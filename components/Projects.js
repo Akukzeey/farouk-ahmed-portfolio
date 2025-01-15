@@ -15,7 +15,6 @@ function Projects() {
                     <button onClick={() => setMore(!more)} className="btn btn-primary">Show more projects</button>
                 </div>
             </div>
-            <SmallProjectsList more={more} setMore={setMore}/>
         </div>
     )
 }

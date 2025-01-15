@@ -37,7 +37,7 @@ function About() {
                 When not coding, I&apos;m exploring new technologies, staying updated with industry trends, and collaborating with fellow developers to exchange insights. I&apos;m excited to connect with like-minded professionals, collaborate on exciting projects, and contribute to the dynamic world of frontend development. My journey is an ongoing adventure, and I eagerly anticipate the opportunities and experiences ahead.
             </p>
             <div className="d-flex justify-content-center">
-                <a href="/farouk_ahmed_cv.pdf" className="btn btn-primary mt-4" data-aos="fade-up">Download CV</a>
+                <a href="/farouk_ahmed_cv (2).pdf" className="btn btn-primary mt-4" data-aos="fade-up">Download CV</a>
             </div>
         </div>
     )

@@ -29,7 +29,7 @@ function ProjectList() {
                     </>
                 }
                 techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs, faNode,"next.svg", "mongodb.svg"]}
-                demo="https://www.apple-express.co.ke/"
+                demo="https://apple-express-jade.vercel.app/"
                 sourceCode="https://github.com/faizscripts/apple"
                 src={apple}
             />
@@ -58,7 +58,7 @@ function ProjectList() {
                     </>
                 }
                 techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs, faReact]}
-                demo="https://deesignal.faroukahmed.com/"
+                demo="#"
                 sourceCode="https://github.com/Akukzeey/deesignal-portfolio"
                 src={deesignal}
             />
@@ -70,7 +70,7 @@ function ProjectList() {
                     </p>
                 }
                 techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs]}
-                demo="https://www.faroukahmed.com/ac-frontend-master/index.html"
+                demo="#"
                 sourceCode="https://github.com/Akukzeey/Ecommerce-Website/tree/master/ac-frontend-master"
                 src={commerce}
             />
@@ -84,7 +84,7 @@ function ProjectList() {
                     </>
                 }
                 techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs, faReact]}
-                demo="https://atm.faroukahmed.com/"
+                demo="https://interactive-atm-cardd.netlify.app/"
                 sourceCode="https://github.com/Akukzeey/Interactive_Atm_Card"
                 src={interactive}
             />
