@@ -31,7 +31,7 @@ function About() {
                 My portfolio reflects my dedication to building and refining digital experiences. I focus on crafting responsive, high-performance interfaces while applying rigorous testing practices to enhance quality and usability. I thrive in continuous learning, staying updated with emerging technologies and best practices to improve both development and testing processes.
             </p>
             <p className="paragraph" data-aos="fade-up">
-                Beyond coding and testing, I enjoy exploring new technologies, collaborating with developers and testers, and exchanging insights to grow in this ever-evolving field. I'm always open to new opportunities, exciting projects, and challenges that push me to create and refine even better solutions.
+                Beyond coding and testing, I enjoy exploring new technologies, collaborating with developers and testers, and exchanging insights to grow in this ever-evolving field. I&apos;m always open to new opportunities, exciting projects, and challenges that push me to create and refine even better solutions.
             </p>
             <div className="d-flex justify-content-center">
                 <a href="/farouk_ahmed_cv (2).pdf" className="btn btn-primary mt-4" data-aos="fade-up">Download CV</a>
