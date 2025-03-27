@@ -1,6 +1,5 @@
 import {useState} from "react";
 import ProjectList from "./elements/ProjectList";
-import SmallProjectsList from "./elements/SmallProjectsList";
 
 function Projects() {
 

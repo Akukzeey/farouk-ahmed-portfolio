@@ -29,7 +29,7 @@ function Proposition() {
 
     return (
         <>
-            <h1 id="static-text">Hi there, {`I'm`} Farouk Ahmed, <br/> a frontend developer</h1>
+            <h1 id="static-text">Hi there, {`I'm`} Farouk Ahmed, <br/>A frontend developer & software tester.</h1>
             <div id="changing-text">
                 <span ref={el} />
             </div>

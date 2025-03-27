@@ -25,16 +25,13 @@ function About() {
             <h1 className="heading" data-aos="fade-up">About</h1>
             {renderAboutPhoto()}
             <p className="paragraph" data-aos="fade-up">
-                I&apos;m Farouk Ahmed, a self-taught developer hailing from Nairobi, Kenya. My journey into the web development realm ignited in 2020. I began with HTML, CSS, and JavaScript, gradually mastering their intricacies. Over the years, my skills have grown to encompass a wide array of technologies, including React, Next.js, WordPress, Bootstrap, SEO, and SASS.
+                I&apos;m Farouk Ahmed, a self-taught front-end developer and software tester from Nairobi, Kenya. My journey into web development began in 2020 with HTML, CSS, and JavaScript, and over time, I expanded my expertise to include React, Next.js, WordPress, Bootstrap, SEO, and SASS. Alongside development, I specialize in software testing, ensuring applications are not only visually appealing but also functional, reliable, and optimized for a seamless user experience.
             </p>
             <p className="paragraph" data-aos="fade-up">
-
+                My portfolio reflects my dedication to building and refining digital experiences. I focus on crafting responsive, high-performance interfaces while applying rigorous testing practices to enhance quality and usability. I thrive in continuous learning, staying updated with emerging technologies and best practices to improve both development and testing processes.
             </p>
             <p className="paragraph" data-aos="fade-up">
-                My portfolio is a testament to my passion for frontend development. It showcases a collection of projects that I&apos;ve meticulously crafted to deliver user-friendly interfaces and seamless user experiences. I believe in the power of self-driven learning to keep pace with the ever-evolving tech landscape.
-            </p>
-            <p className="paragraph" data-aos="fade-up">
-                When not coding, I&apos;m exploring new technologies, staying updated with industry trends, and collaborating with fellow developers to exchange insights. I&apos;m excited to connect with like-minded professionals, collaborate on exciting projects, and contribute to the dynamic world of frontend development. My journey is an ongoing adventure, and I eagerly anticipate the opportunities and experiences ahead.
+                Beyond coding and testing, I enjoy exploring new technologies, collaborating with developers and testers, and exchanging insights to grow in this ever-evolving field. I'm always open to new opportunities, exciting projects, and challenges that push me to create and refine even better solutions.
             </p>
             <div className="d-flex justify-content-center">
                 <a href="/farouk_ahmed_cv (2).pdf" className="btn btn-primary mt-4" data-aos="fade-up">Download CV</a>
